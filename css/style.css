@@ -18,7 +18,8 @@ img {
 }
 
 .propic {
-    border-radius: 100px;
+    border-radius: 50%;
+    max-width: 40%;
 }
 
 hr {

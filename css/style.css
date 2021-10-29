@@ -19,7 +19,7 @@ img {
 
 .propic {
     border-radius: 10%;
-    max-width: 100%;
+    max-width: 40%;
 }
 
 hr {
@@ -36,7 +36,7 @@ h1 {
 
 h2 {
     font-size: 1.3em;
-    padding: 10px;
+    margin: 0;
 }
 
 h3 {
@@ -123,10 +123,4 @@ blockquote {
 footer p,
 footer a {
     font-size: 13px;
-}
-
-.intro {
-    font-size: 1.3em;
-    padding: 10px;
-    background: #fcfcfc;
 }

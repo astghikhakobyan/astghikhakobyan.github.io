@@ -36,7 +36,6 @@ h1 {
 
 h2 {
     font-size: 1.3em;
-    background: #fcfcfc;
     padding: 10px;
 }
 
@@ -124,4 +123,10 @@ blockquote {
 footer p,
 footer a {
     font-size: 13px;
+}
+
+.intro {
+    font-size: 1.3em;
+    padding: 10px;
+    background: #fcfcfc;
 }

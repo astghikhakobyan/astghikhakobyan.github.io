@@ -1,12 +1,11 @@
 .header-content {
     position: relative;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    flex-direction: column;
 }
 
-.cv-title, .header-info {
-    flex: 1;
+.header-info {
+    margin-bottom: 20px;
 }
 
 .header-logos {
@@ -14,7 +13,6 @@
     top: 0;
     right: 0;
     display: flex;
-    flex-direction: column; /* Stack the logos vertically */
     gap: 10px;
 }
 
@@ -22,6 +20,7 @@
     height: 50px; /* Adjust the height as needed */
     margin-left: 10px;
 }
+
 
 
 

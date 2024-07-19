@@ -1,11 +1,15 @@
 .header-content {
     position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.cv-title, .header-info {
+    flex: 1;
 }
 
 .header-logos {
-    position: absolute;
-    top: 0;
-    right: 0;
     display: flex;
     gap: 10px;
 }

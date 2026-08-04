@@ -8,19 +8,6 @@
     margin-bottom: 20px;
 }
 
-.header-logos {
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: flex;
-    gap: 10px;
-}
-
-.header-logos img {
-    height: 70px; /* Adjust the height as needed */
-    margin-left: 10px;
-}
-
 
 
 
